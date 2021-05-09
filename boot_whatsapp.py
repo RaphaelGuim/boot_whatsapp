@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  2 19:24:07 2021
-
-@author: pauloeduardosampaio
-"""
 
 from whatsapp_api import WhatsApp
 import pandas as pd
